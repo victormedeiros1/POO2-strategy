@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Duck
+comment0.text=\r\n\ Classe\ abstrata\ Duck\ -\ escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ aqui\r\n\ \r\n\ @author\ (seu\ nome\ aqui)\r\n\ @version\ (vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=void\ display()
+comment2.params=
+comment2.target=void\ performQuack()
+comment3.params=
+comment3.target=void\ performFly()
+comment4.params=
+comment4.target=void\ performSwim()
+comment5.params=q
+comment5.target=void\ setQuackBehavior(QuackBehavior)
+comment6.params=f
+comment6.target=void\ setFlyBehavior(FlyBehavior)
+comment7.params=s
+comment7.target=void\ setFlyBehavior(SwimBehavior)
+numComments=8
