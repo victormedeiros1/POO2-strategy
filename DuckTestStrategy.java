@@ -10,11 +10,11 @@ public class DuckTestStrategy {
         redDuck.performQuack();
     }
     
-    public void voar(){
+    public void fly(){
         redDuck.performFly();
     }
     
-    public void nadar(){
+    public void swim(){
         redDuck.performSwim();
     }
 }
